@@ -1,0 +1,2 @@
+# splitability
+open source splitwise
